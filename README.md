@@ -1,5 +1,4 @@
 # Unix Shell
-Done by me and my partner EJ Lilagan
 
 This project consists of designing a C/C++ program to serve as a shell interface that accepts user commands and then executes each command in a seperate process. 
 
